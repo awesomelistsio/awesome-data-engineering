@@ -42,6 +42,7 @@
 - [Fivetran](https://www.fivetran.com/) – Managed data connectors for analytics and warehousing.
 - [Singer](https://www.singer.io/) – Open-source standard for data extraction and loading.
 - [Debezium](https://debezium.io/) – Change data capture (CDC) platform for databases.
+- [Arpe.io](https://www.arpe.io/) – High-speed CLI tools for database export, import, replication and migration with parallel streaming to CSV, Parquet, JSON and cloud storage, supporting 80+ sources.
 
 ## Streaming & Event Processing
 
