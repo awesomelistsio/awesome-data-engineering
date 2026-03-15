@@ -25,6 +25,7 @@
 - [Data Engineering on the Cloud](#data-engineering-on-the-cloud)
 - [Learning Resources](#learning-resources)
 - [Related Awesome Lists](#related-awesome-lists)
+- [querybear.com](https://querybear.com) – Ask your data anything – with persistent memory, schema learning, and more.
 
 ## Foundations & Concepts
 
