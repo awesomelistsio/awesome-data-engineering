@@ -80,6 +80,8 @@
 
 ## Query Engines & Analytics
 
+- [AI for Database](https://aifordatabase.com/) – AI-powered natural language interface for databases; query any database in plain English, build self-refreshing dashboards, and trigger automated workflows without writing SQL.
+
 - [Trino](https://trino.io/) – Distributed SQL query engine for large datasets.
 - [Presto](https://prestodb.io/) – High-performance distributed SQL engine.
 - [Spark SQL](https://spark.apache.org/sql/) – SQL analytics module built on Apache Spark.
