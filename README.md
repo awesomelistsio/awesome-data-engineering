@@ -40,6 +40,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Apache Kafka Connect](https://kafka.apache.org/documentation/#connect) – Framework for moving data between Kafka and external systems.
 - [Apache NiFi](https://nifi.apache.org/) – Visual data ingestion and flow automation platform.
 - [Airbyte](https://airbyte.com/) – Open-source data integration platform for ELT pipelines.
+- [DBConvert Streams](https://streams.dbconvert.com/) - Database migration and CDC replication for PostgreSQL, MySQL, files, and S3.
 - [Fivetran](https://www.fivetran.com/) – Managed data connectors for analytics and warehousing.
 - [Singer](https://www.singer.io/) – Open-source standard for data extraction and loading.
 - [Debezium](https://debezium.io/) – Change data capture (CDC) platform for databases.
