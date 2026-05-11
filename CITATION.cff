@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Data Engineering"
+abstract: "A curated list of tools, platforms, frameworks, pipelines, educational resources, and best practices related to data engineering, data infrastructure, ETL workflows, streaming systems, and scalable data architectures."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-data-engineering"
+keywords:
+  - data engineering
+  - ETL
+  - data pipelines
+  - big data
+  - data infrastructure
+  - streaming systems
+  - data architecture
+  - Apache Kafka
+  - data platforms
+  - awesome list
