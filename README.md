@@ -102,7 +102,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OpenLineage](https://openlineage.io/) – Open standard for capturing data lineage.
 - [DataHub](https://datahubproject.io/) – Open-source metadata and data catalog.
 - [Amundsen](https://www.amundsen.io/) – Data discovery and metadata engine.
-- [OneQuery](https://github.com/wordbricks/onequery) – Self-hosted gateway for safe, auditable agent queries across approved data sources.
+- [OneQuery](https://github.com/wordbricks/onequery) – Self-hosted gateway for safe, auditable queries for agents across approved data sources.
 
 ## Observability & Reliability
 
