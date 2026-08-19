@@ -67,6 +67,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Prefect](https://www.prefect.io/) – Workflow orchestration system for data pipelines.
 - [Luigi](https://github.com/spotify/luigi) – Python package for building complex pipelines.
 - [Argo Workflows](https://argo-workflows.readthedocs.io/) – Kubernetes-native workflow engine.
+- [Bruin](https://github.com/bruin-data/bruin) – CLI that runs ingestion, SQL and Python transformations, and data quality checks as one pipeline.
 
 ## Storage, Warehousing & Lakehouses
 
