@@ -1,4 +1,4 @@
-# Awesome Data Engineering [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Data Engineering [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1123974508.svg)](https://doi.org/10.5281/zenodo.19673251)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -146,11 +146,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Big Data](https://github.com/awesomelistsio/awesome-big-data)
-- [Awesome Data Analytics](https://github.com/awesomelistsio/awesome-data-analytics)
-- [Awesome SQL](https://github.com/awesomelistsio/awesome-sql)
-- [Awesome Cloud](https://github.com/awesomelistsio/awesome-cloud)
-- [Awesome MLOps](https://github.com/awesomelistsio/awesome-mlops)
+- [Awesome Big Data](https://github.com/brandonhimpfen/awesome-big-data)
+- [Awesome Data Analytics](https://github.com/brandonhimpfen/awesome-data-analytics)
+- [Awesome SQL](https://github.com/brandonhimpfen/awesome-sql)
+- [Awesome Cloud](https://github.com/brandonhimpfen/awesome-cloud)
+- [Awesome MLOps](https://github.com/brandonhimpfen/awesome-mlops)
 
 ## Contribute
 
